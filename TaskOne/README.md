@@ -5,4 +5,4 @@
 - Create, Modify, Print Out Arrays
 - Read in from text file
 - Read in from csv file
-- Modify and Print Out csv file content
+- Modify and Print Out csv file content (attendees1.csv and attendees2.csv)
